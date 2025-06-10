@@ -1,7 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="常用",CCTV-17-河南联通1
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV1.png" group-title="『央✯视』" ,CCTV1
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV2.png" group-title="『央✯视』" ,CCTV2
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV3.png" group-title="『央✯视』" ,CCTV3
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV4.png" group-title="『央✯视』" ,CCTV4
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV5.png" group-title="『央✯视』" ,CCTV5
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV6.png" group-title="『央✯视』" ,CCTV6
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV7.png" group-title="『央✯视』" ,CCTV7
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV8.png" group-title="『央✯视』" ,CCTV8
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV9.png" group-title="『央✯视』" ,CCTV9
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV10.png" group-title="『央✯视』" ,CCTV10
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV11.png" group-title="『央✯视』" ,CCTV11
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV12.png" group-title="『央✯视』" ,CCTV12
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV13.png" group-title="『央✯视』" ,CCTV13
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV14.png" group-title="『央✯视』" ,CCTV14
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV15.png" group-title="『央✯视』" ,CCTV15
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV16.png" group-title="『央✯视』" ,CCTV16
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV17.png" group-title="『央✯视』" ,CCTV17
+http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
+
+
+#EXTINF:-1 group-title="常用",CCTV-17-河南联通1
 
 #EXTINF:-1 group-title="常用",CCTV-17-河南联通2
 http://182.117.43.107:4000/rtp/225.1.4.227:2507
